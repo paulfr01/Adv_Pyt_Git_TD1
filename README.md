@@ -1,12 +1,4 @@
-<<<<<<< HEAD
-# Projet TD1 GIT
-Xavier : “Pour comprendre 
-ce qu’est la 
-récursion
-vous devez d’abord 
-comprendre la récursion.”
-=======
-
+Xavier BONNEFOND, Tristan ALIBERT, Marius FERRERO, Paul FRANCOIS
 # Adv_Pyt_Git_TD1
 
 Alibert
@@ -34,4 +26,11 @@ Paul
  que celui qui est 
  le maître du monde. » 
  – Bouddha
+
+Xavier 
+“Pour comprendre 
+ce qu’est la 
+récursion
+vous devez d’abord 
+comprendre la récursion.”
 
