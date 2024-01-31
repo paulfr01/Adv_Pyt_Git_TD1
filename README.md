@@ -11,5 +11,4 @@ Paul
  que celui qui est 
  le maître du monde. » 
  – Bouddha
- f
 
