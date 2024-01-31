@@ -1,6 +1,6 @@
 # Projet TD1 GIT
-## Réalisé par :
-Alibert Tristan 
-François Paul 
-Ferrero Marius 
-Bonnefond Xavier
+Xavier : “Pour comprendre 
+ce qu’est la 
+récursion
+vous devez d’abord 
+comprendre la récursion.”
