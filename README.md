@@ -1,6 +1,6 @@
 # Projet TD1 GIT
-## Réalisé par :
-Alibert Tristan 
-François Paul 
-Ferrero Marius 
-Bonnefond Xavier
+« Celui qui est le maître
+ de lui même est plus grand 
+ que celui qui est 
+ le maître du monde. » 
+ – Bouddha
